@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Kishore-A-K
-- 🌱 I’m currently learning C & Python
-
-
-
-<!---
-Kishore-A-K/Kishore-A-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! 👋 I'm Kishore A K, an aspiring Embedded Software Engineer who loves diving into IoT, microcontrollers, and system programming. I’m currently working on my Master’s in Computer Applications (MCA) with a focus on Embedded Systems & IoT, learning how to bring hardware and software together to build cool and efficient systems.
